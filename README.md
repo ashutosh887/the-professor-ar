@@ -1,4 +1,4 @@
-# the-professor-ar
+# the-professor-ar 🚀
 Submission for Snap AR Lensathon 2023
 
 ## Inspiration
@@ -29,7 +29,7 @@ v2 is coming up with better face texture, beautification engine, multiple commun
 - lens
 - studio
 
-## Try it out 
-@[lens.snapchat.com](https://lens.snapchat.com/5970476de8f14b049491c6cf890660dc)
+## Try it out
+[lens.snapchat.com](https://lens.snapchat.com/5970476de8f14b049491c6cf890660dc)
 
 Created with ❤️ by **@[ashutosh887](https://github.com/ashutosh887)**
