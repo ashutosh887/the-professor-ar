@@ -29,7 +29,9 @@ v2 is coming up with better face texture, beautification engine, multiple commun
 - lens
 - studio
 
-## Try it out
-[lens.snapchat.com](https://lens.snapchat.com/5970476de8f14b049491c6cf890660dc)
+## Try it out!
+Lens: [Snapchat](https://lens.snapchat.com/5970476de8f14b049491c6cf890660dc)
+
+Submission: [DevPost](https://devpost.com/software/the-professor)
 
 Created with ❤️ by **@[ashutosh887](https://github.com/ashutosh887)**
